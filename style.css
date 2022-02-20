@@ -1,0 +1,34 @@
+
+
+#search{
+    background-color: #EEEEEE;
+
+}
+img{
+    display: block;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: auto;
+    text-align: center;
+}
+table{
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+td{
+    text-align: center;
+}
+#right{
+    width: 37%;
+    background-color: #62B3AA;
+}
+#mid{
+    font: size -1px;
+    background-color: #70CCC2;
+}
+#left{
+    width: 37%;
+    background-color:#7EE5DA;
+}
